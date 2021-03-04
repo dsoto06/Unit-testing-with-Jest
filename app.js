@@ -28,8 +28,6 @@ const fromYanToPound = function(valueInYen){
     // returnamos el valor
     return valueInPound;
 }
-console.log(fromEuroToDollar(3.5))
 // tenemos que incluir la funcion en el exports para que sea exportada a otros archivos como test.js
-// module.exports = { sum, fromEuroToDollar }
-// module.exports = { sum, fromDollarToYen }
-// module.exports = { sum, fromYanToPound }
+module.exports = { fromEuroToDollar, fromDollarToYen, fromYanToPound }
+

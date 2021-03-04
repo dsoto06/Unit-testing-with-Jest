@@ -1,7 +1,7 @@
 {
     "config": {
         "port": 3000,
-        "address": "https://violet-meerkat-zk4xu8rt.ws-us03.gitpod.io",
+        "address": "https://red-sheep-2m1yh0g5.ws-us03.gitpod.io",
         "editor": {
             "mode": "gitpod",
             "version": "1.0.58"
@@ -48,7 +48,7 @@
         "unit testing"
     ],
     "description": "Give a series of exercises and solutions, create the unit tests to automaticaly grade the given solutions",
-    "session": 42357969165292000,
+    "session": 2566179145365963300,
     "exercises": [
         {
             "position": 0,
